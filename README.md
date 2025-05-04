@@ -18,7 +18,7 @@ The app sorts users into playful spending classes like the **🛡️ Frugal Knig
 - Downloadable “Character Sheet” report
 
 ##  Deployment Link
-[Click here to use the app](https://your-username-your-repo-name.streamlit.app)
+[Click here to use the app](https://lifestyle-clusterer-3smmdukadhjstpqukzxsgj.streamlit.app)
 
 ##  How to Run Locally
 
