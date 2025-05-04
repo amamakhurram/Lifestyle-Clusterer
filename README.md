@@ -1,7 +1,7 @@
 #  Spending Quest - Class Analyzer
 
 ## Course Name
-Programming for Financa
+Programming for Finance
 
 ## Instructor Name
 Dr. Usama Janjua
